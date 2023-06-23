@@ -1,7 +1,7 @@
 <h1 align="center">React Facts</h1>
 <br>
 
-> React Facts demo built using [Reactjs](https://github.com/nuxt/nuxt), [React js](https://github.com/facebook/react)).
+> React Facts demo built using [Reactjs]([React js](https://github.com/facebook/react)).
 
 ## Setup
 
@@ -10,7 +10,7 @@
 $ npm install
 ```
 
-project ini hasil implementasi dari beberapa topics seperti:
+This project is the result of the implementation of several topics such as:
 - JSX
 - Custom Components
 - Styling
